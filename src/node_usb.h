@@ -9,6 +9,7 @@
 #include <WinSock2.h>
 #endif
 
+#include <atomic>
 #include <thread>
 #include <libusb.h>
 #include <napi.h>
